@@ -1,0 +1,16 @@
+.bg{
+    background-color: #f79e2a;
+}
+body{
+    background-color: #f93c64;
+}
+input[type=submit]{
+    color: #fdf2eb;
+    background-color: #f79e2a;
+    border-radius: 3px;
+}
+div{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
